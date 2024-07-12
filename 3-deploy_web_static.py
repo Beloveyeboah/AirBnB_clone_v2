@@ -8,7 +8,6 @@ from datetime import datetime
 from os.path import exists, isdir
 env.user = 'ubuntu'
 env.hosts = ['52.87.216.92', '54.210.16.169']
-env.user = 'ubuntu'
 env.identity = '~/.ssh/id_rsa.pub'
 env.password = None
 
